@@ -120,20 +120,20 @@ The `figures/` directory contains all the plots generated from both simulation s
 
 *   **Integrated Performance Validation:**
     *   **Distance Error with Constraints:** Shows all followers maintaining inter-vehicle distance strictly within the predefined safety bounds, crucial for collision avoidance.
-        ![Distance Error with Constraints](figures/exp0_distance_error.png)
+        ![Distance Error with Constraints](figure/exp0_distance_error.png)
 
     *   **Control Input for Acceleration:** Demonstrates the FLENNSMC's ability to adapt and maintain effective control even during an unknown-direction actuator fault period (highlighted in red).
-        ![Control Input for Acceleration](figures/exp0_control_input.png)
+        ![Control Input for Acceleration](figure/exp0_control_input.png)
 
     *   **Nussbaum Function Gains:** Illustrates how the Nussbaum gains dynamically adapt over time to compensate for the unknown control direction of actuator faults, remaining bounded and ensuring system stability.
-        ![Nussbaum Function Gains](figures/exp0_nussbaum_function_gains.png)
+        ![Nussbaum Function Gains](figure/exp0_nussbaum_function_gains.png)
 
 *   **Comparative Performance Validation:**
     *   **Comparison of Velocity Error:** Clearly shows the superior tracking accuracy and stability of the Proposed FLENNSMC compared to Traditional RBFNN and the unstable Standard SMC.
-        ![Comparison of Velocity Error](figures/exp1_velocity_error.png)
+        ![Comparison of Velocity Error](figure/exp1_velocity_error.png)
 
     *   **Comparison of RBFNN Weight Norm:** Highlights FLENNSMC's higher learning efficiency by converging to a significantly smaller adaptive weight norm than Traditional RBFNN.
-        ![Comparison of RBFNN Weight Norm](figures/exp1_rbfnn_weight_norm.png)
+        ![Comparison of RBFNN Weight Norm](figure/exp1_rbfnn_weight_norm.png)
 
 ### 📞 Contact
 
