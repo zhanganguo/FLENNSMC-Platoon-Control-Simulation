@@ -114,7 +114,7 @@ This scenario compares the performance of the proposed FLENNSMC with a Tradition
 
 ### 📊 Results & Analysis
 
-The `figures/` directory contains all the plots generated from both simulation scenarios, validating the proposed FLENNSMC framework's performance.
+The `figure/` directory contains all the plots generated from both simulation scenarios, validating the proposed FLENNSMC framework's performance.
 
 **Key Findings Illustrated in Figures:**
 
@@ -133,7 +133,7 @@ The `figures/` directory contains all the plots generated from both simulation s
         ![Comparison of Velocity Error](figure/exp1_velocity_error.png)
 
     *   **Comparison of RBFNN Weight Norm:** Highlights FLENNSMC's higher learning efficiency by converging to a significantly smaller adaptive weight norm than Traditional RBFNN.
-        ![Comparison of RBFNN Weight Norm](figure/exp1_rbfnn_weight_norm.png)
+        ![Comparison of RBFNN Weight Norm](figure/exp1_RBFNN_weight_norm.png)
 
 ### 📞 Contact
 
