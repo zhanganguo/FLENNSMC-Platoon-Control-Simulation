@@ -146,7 +146,7 @@ For any questions, suggestions, or collaborations, feel free to reach out:
 If you use this code or concepts from this research in your work, please cite our paper:
 
 ```bibtex
-@article{Wen2024FLENNSMC,
+@article{Wen2025FLENNSMC,
   title={Fuzzy Logic-Enhanced Neuroadaptive Sliding Mode Control for Stochastic Vehicular Platoon Systems with Unknown-Direction Actuator Faults and Asymmetric Spacing Constraints},
   author={Wen, Yao and Zhang, Anguo and Li, Yongfu},
   journal={UNDER REVIEW},
