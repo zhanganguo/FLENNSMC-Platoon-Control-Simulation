@@ -15,7 +15,7 @@ This repository contains the numerical simulation code for the research paper:
 
 **"Fuzzy Logic-Enhanced Neuroadaptive Fault-tolerant Control for Platoon Systems with Stochastic Disturbances and Asymmetric Spacing Constraints"**
 
-By Yao Wen, Xuesong Xu, Anguo Zhang, and Yongfu Li.
+By Yao Wen, Xiaohong Chen, Xuesong Xu, Anguo Zhang, and Yongfu Li.
 
 ---
 
@@ -146,7 +146,7 @@ If you use this code or concepts from this research in your work, please cite ou
 ```bibtex
 @article{Wen2024FLENNSMC,
   title={Fuzzy Logic-Enhanced Neuroadaptive Fault-tolerant Control for Platoon Systems with Stochastic Disturbances and Asymmetric Spacing Constraints},
-  author={Wen, Yao and Xu, Xuesong and Zhang, Anguo and Li, Yongfu},
+  author={Wen, Yao and Chen, Xiaohong and Xu, Xuesong and Zhang, Anguo and Li, Yongfu},
   journal={UNDER REVIEW},
   year={2025},
 }
